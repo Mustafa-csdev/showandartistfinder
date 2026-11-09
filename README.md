@@ -1,2 +1,2 @@
 # showandartistfinder
-TV show search tool using the TVmaze API
+TV show and artist search tool using the TVmaze API
